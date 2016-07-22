@@ -17,6 +17,11 @@
   ],
   "dependencies": {
     "cornerstone": "^0.9.0",
-    "cornerstoneWADOImageLoader": "^0.13.3"
+    "cornerstoneWADOImageLoader": "^0.13.3",
+    "Chart.js": "chartjs#^2.1.6",
+    "font-awesome": "fontawesome#^4.6.3",
+    "react": "^15.2.1",
+    "Ionicons": "ionicons#^2.0.1",
+    "requirejs": "^2.2.0"
   }
 }

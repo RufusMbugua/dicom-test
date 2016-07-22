@@ -1,0 +1,8 @@
+.chart{
+  padding:20px;
+}
+.chart .inner{
+  height:300px;
+  border:1px solid #ddd;
+  background:white;
+}

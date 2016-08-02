@@ -7,5 +7,10 @@ router.get('/', function(req, res, next) {
     title: 'Dicom Web'
   });
 });
+router.get('/dicom', function(req, res, next) {
+  res.render('dicom', {
+    title: 'Dicom Web'
+  });
+});
 
 module.exports = router;

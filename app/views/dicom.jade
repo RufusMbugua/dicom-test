@@ -3,7 +3,12 @@ extends layouts/main
 block content
   .autogrid
    .col.chart
-    .inner.full-screen#dicomImage
+    .inner
+     .action
+       a.btn.small.red#rotate #[i.ion-arrow-return-right]
+       a.btn.small.red#zoom #[i.fa.fa-search-plus]
+       a.btn.small.red#length #[i.fa.fa-arrows-h]
+     .full-screen#dicomImage
      
      
     

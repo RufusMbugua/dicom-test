@@ -6,6 +6,9 @@
   border:1px solid #ddd;
   background:white;
 }
-.chart .inner.full-screen{
-	height:600px;
+.full-screen{
+	height:500px;
+}
+.action{
+  width:100%;
 }
